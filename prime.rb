@@ -6,3 +6,5 @@ def prime?(number)
     
     number % num_to_test == 0 
   end 
+else
+  
