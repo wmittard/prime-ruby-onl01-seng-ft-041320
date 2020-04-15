@@ -3,3 +3,5 @@ def prime?(number)
   if number > 1 
     range = (start..number-).to_a
     range.none? |num test|
+    
+    number 
