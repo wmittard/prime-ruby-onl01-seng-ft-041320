@@ -1,2 +1,3 @@
 def prime?(number)
-  p
+  start = 2 
+  
