@@ -4,4 +4,4 @@ def prime?(number)
     range = (start..number-).to_a
     range.none? |num test|
     
-    number %
+    number % num_
